@@ -22,5 +22,3 @@ It works with datasets containing the following columns:
 | explicit | Boolean (True/False) |
 
 ---
-
-## 📂 Project Structure
